@@ -1,0 +1,15 @@
+material trace/Diffuse
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture trace.jpg
+        filtering anistropic
+        max_anisotropy 16
+      }
+    }
+  }
+}

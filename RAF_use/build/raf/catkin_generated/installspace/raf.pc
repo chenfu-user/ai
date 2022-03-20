@@ -1,0 +1,8 @@
+prefix=/home/chenfu/RAF_use/install
+
+Name: raf
+Description: Description of raf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,22 @@
+{
+    "template": "image_processing",
+    "des": "use pic from gazebo",
+    "pad": [
+        {
+            "name": "speed_out",
+            "type": "out",
+            "format": {}
+        },
+        {
+            "name": "img_in",
+            "type": "in",
+            "format": {}
+        }
+    ],
+    "signal": {
+        "signal1": {}
+    },
+    "function": {
+        "function1": {}
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "template": "ros",
+    "des": "communicate with ros",
+    "pad": [
+        {
+            "name": "speed_in",
+            "type": "in",
+            "format": {}
+        },
+        {
+            "name": "img_out",
+            "type": "out",
+            "format": {}
+        }
+    ],
+    "signal": {
+        "signal1": {}
+    },
+    "function": {
+        "function1": {}
+    }
+}
